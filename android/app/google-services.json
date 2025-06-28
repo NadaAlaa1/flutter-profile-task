@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "524528072745",
+    "project_id": "flutter-profile-task",
+    "storage_bucket": "flutter-profile-task.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524528072745:android:650fe1ade6d2552e5d0438",
+        "android_client_info": {
+          "package_name": "com.example.flutter_profile_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCLV4FL0_Ixjx8p8UH1X5DfLtmUEN11wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
