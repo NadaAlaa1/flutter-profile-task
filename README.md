@@ -46,7 +46,7 @@ To run the Flutter Profile Task app, ensure you have the following installed:
 1.  **Clone the repository**
 
     ```
-    git clone https://github.com/<your-username>/flutter_profile_task.git
+    git clone https://github.com/NadaAlaa1/flutter_profile_task.git
 
     ```
 
