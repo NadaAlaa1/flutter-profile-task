@@ -6,11 +6,11 @@ Flutter Profile Task is a Flutter-based application designed to manage user prof
 Table of Contents
 -----------------
 
--   [Features](https://grok.com/chat/c545f7ba-cdff-4532-9363-048e17f4cf79#features)
--   [Demo](https://grok.com/chat/c545f7ba-cdff-4532-9363-048e17f4cf79#demo)
--   [Getting Started](https://grok.com/chat/c545f7ba-cdff-4532-9363-048e17f4cf79#getting-started)
--   [Dependencies](https://grok.com/chat/c545f7ba-cdff-4532-9363-048e17f4cf79#dependencies)
--   [Contributing](https://grok.com/chat/c545f7ba-cdff-4532-9363-048e17f4cf79#contributing)
+-  [Features](#features)
+-  [Demo](#demo)
+-  [Getting Started](#getting-started)
+-  [Dependencies](#dependencies)
+-  [Contributing](#contributing)
 
 Features
 --------
